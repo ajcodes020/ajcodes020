@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Aron John
-- 🔭 I’m currently working on improving my python skills by taking an online course.
+- 🔭 I’m currently working on improving my python skills.
 - 🌱 I’m currently learning pandas and handling csv files.
 - 👯 I’m looking to collaborate on a project related to machine learning in the near future.
 - ⚡ Fun fact: I have a twin brother pursuing machine learning as well.
