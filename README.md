@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on improving my python skills by taking an online course.
 - 🌱 I’m currently learning pandas and handling csv files.
 - 👯 I’m looking to collaborate on a project related to machine learning in the near future.
+- ⚡ Fun fact: I have a twin brother pursuing machine learning as well.
 
 <!--
 **ajcodes020/ajcodes020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
