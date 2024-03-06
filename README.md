@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning by taking an online course.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajcodes020&show_icons=true&locale=en&layout=compact" alt="ajcodes020" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ajcodes020&show_icons=true&locale=en" alt="ajcodes020" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajcodes020&show_icons=true&locale=en" alt="ajcodes020" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajcodes020&show_icons=true&locale=en&layout=compact" alt="ajcodes020" /></p>
 
 
 <!--
