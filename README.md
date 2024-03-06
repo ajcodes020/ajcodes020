@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there 👋, I'm Aron John</h1>
+<h1 align="center">Hi there 👋, I'm AJ</h1>
 <h3 align="center">I'm an aspiring Machine Learning Engineer.</h3>
 
 - 🔭 I’m currently working on improving my Python programming skills. Currently working with APIs.
