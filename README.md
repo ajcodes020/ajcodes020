@@ -2,7 +2,7 @@
 <!-- <h3 align="center">I'm an aspiring Machine Learning Engineer.</h3> -->
 
 - 🔭 I’m currently working on improving my Python programming skills.
-- 🌱 I’m currently learning by taking an online course.
+- 🌱 I’m currently exploring new opportunities.
 - 👯 I’m looking to collaborate on a project related to machine learning in the near future.
 - 👨‍💻 My website is available at: https://ajcodes020.github.io
   
